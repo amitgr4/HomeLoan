@@ -13,7 +13,9 @@ public class Loan {
 	    String strDate= formatter.format(date);  
 	    System.out.println(strDate);  
 	    System.out.println("this is java project learn git loan");
-	    
+	   // RetailLoan retail =new RetailLoan();
+	   RetailLoan.loans();
+	 
 
 	}
 
