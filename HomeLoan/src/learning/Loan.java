@@ -13,7 +13,7 @@ public class Loan {
 	    String strDate= formatter.format(date);  
 	    System.out.println(strDate);  
 	    System.out.println("this is java project learn git loan");
-	    System.out.println("This is jenkins for loans project");
+	    
 
 	}
 
